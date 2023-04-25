@@ -170,37 +170,3 @@ p,
 dd {
   line-height: 1.6;
 }
-/*
-.card-beige {
-  background-color: #eee2df;
-  padding: 8px;
-  color: #b36a5e;
-  border-radius: 16px;
-  margin-bottom: 8px;
-}
-
-.hero-text {
-  margin: 0 auto;
-  padding-top: 8px;
-  text-align: center;
-  font-size: 16px;
-}
-
-.hero-text h1 {
-  margin: 0;
-} */
-
-/* Another way of making an image into a circle */
-/* .hero-picture {
-  width: 250px;
-  height: 250px;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: auto;
-}
-
-.hero-picture img {
-  width: 100%;
-  height: auto;
-  margin-top: -25px;
-} */
