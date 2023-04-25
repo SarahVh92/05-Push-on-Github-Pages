@@ -114,14 +114,15 @@ ul.social-media {
 }
 
 i.fas.fa-envelope,
-i.fab.fa-linkedin {
+i.fab.fa-linkedin,
+i.fa-brands.fa-github {
   font-size: 32px;
 }
 
 i.fas.fa-envelope:hover,
-i.fab.fa-linkedin:hover {
+i.fab.fa-linkedin:hover,
+i.fa-brands.fa-github:hover {
   color: #b36a5e;
-  font-size: 250%
 }
 
 dl.hobby{
